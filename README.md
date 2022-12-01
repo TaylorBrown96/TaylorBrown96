@@ -2,7 +2,7 @@
 <h3 align="center">I am just a student at the moment and I am excited to see where this career will take me.</h3>
 
 - 🌱 I’m currently learning **Computer Programming at FTCC**
-- 🔭 I will be working on my BS in Computer science starting spring 2023
+- 🔭 I will be working on my **BS in Computer science starting spring 2023**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
