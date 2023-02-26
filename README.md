@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taylor J. Brown<br><br><img src="https://www.codewars.com/users/TaylorBrown96/badges/large"></h1>
+<h1 align="center">Hi 👋, I'm Taylor J. Brown<br><img src="https://www.codewars.com/users/TaylorBrown96/badges/small"></h1>
 
 <p align="center">- 🌱 I’m currently going to UNCFSU for my **BS in Computer Science w/ Minor(s) in Mathimatics and Data Science**</p>
 
