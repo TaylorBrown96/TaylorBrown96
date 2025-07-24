@@ -46,6 +46,6 @@
 
 <p align="center">
   <a href="mailto:taylor.j.brown1996@gmail.com">📧 Email</a> |
-  <a href="https://linkedin.com/in/taylor-brown-96">🔗 LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/browntaylorj/">🔗 LinkedIn</a> |
   <a href="https://github.com/taylorbrown96">🐙 GitHub</a>
 </p>
