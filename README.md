@@ -8,7 +8,7 @@
 
 <p align="center">
   🎓 I earned my B.S. in Computer Science with a minor in Mathematics from <strong>UNCFSU</strong><br>
-  🎉 Starting Fall 2025, I’ll begin my M.S. in Computer Science at <strong>NC State University</strong>
+  🎉 Currently taking classes for my Masters in Computer Science at <strong>NC State University</strong>
 </p>
 
 ---
